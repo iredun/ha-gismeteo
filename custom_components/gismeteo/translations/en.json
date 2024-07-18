@@ -33,6 +33,9 @@
         "pressure": {
           "name": "Pressure"
         },
+        "precipitation": {
+          "name": "Precipitation"
+        },
         "wind_speed": {
           "name": "Wind Speed"
         },
@@ -129,6 +132,9 @@
         },
         "pressure_forecast": {
           "name": "Pressure Forecast {day}d"
+        },
+        "precipitation_forecast": {
+          "name": "Precipitation Forecast {day}d"
         },
         "wind_speed_forecast": {
           "name": "Wind Speed Forecast {day}d"
