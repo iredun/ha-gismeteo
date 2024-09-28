@@ -91,7 +91,7 @@ ATTR_FORECAST_SNOW_AMOUNT: Final = "snow_amount"
 COORDINATOR: Final = "coordinator"
 UNDO_UPDATE_LISTENER: Final = "undo_update_listener"
 
-ENDPOINT_URL: Final = "https://services.gismeteo.ru/inform-service/inf_chrome"
+ENDPOINT_URL: Final = "https://services.gismeteo.ru/inform-service/inf_chrometab"
 #
 PARSER_URL_FORMAT: Final = "https://www.gismeteo.ru/weather-{}/10-days/"
 PARSER_USER_AGENT: Final = (
